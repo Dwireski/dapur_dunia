@@ -69,7 +69,7 @@ Base URL: `https://www.themealdb.com/api/json/v1/1`
 1. Pastikan [Flutter SDK](https://docs.flutter.dev/get-started/install) sudah terpasang, lalu periksa dengan `flutter doctor`.
 2. Clone repositori ini:
    ```bash
-   git clone <URL-REPOSITORI-ANDA>
+   git clone https://github.com/Dwireski/dapur_dunia.git
    cd dapur_dunia
    ```
 3. Unduh dependensi:
@@ -89,6 +89,6 @@ Aplikasi memerlukan koneksi internet karena seluruh data diambil dari API.
 
 ## Pengembang
 
-- Nama: [Nama Lengkap]
-- NIM: [NIM]
+- Nama: Dwi Ahmad Reski
+- NIM: 240605110245
 - Program Studi Teknik Informatika
