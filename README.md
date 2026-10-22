@@ -89,6 +89,6 @@ Aplikasi memerlukan koneksi internet karena seluruh data diambil dari API.
 
 ## Pengembang
 
-- Nama: [Nama Lengkap]
-- NIM: [NIM]
+- Nama: Dwi Ahmad Reski
+- NIM: 240605110245
 - Program Studi Teknik Informatika
